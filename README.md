@@ -1,6 +1,6 @@
 # Paho::Rails
 
-TODO: Write a gem description
+A gem to add paho library to a rails application.
 
 ## Installation
 
@@ -14,7 +14,6 @@ And then execute:
 
 Or install it yourself as:
 
-    #TODO
     $ gem install paho-rails
 
 ## Usage
