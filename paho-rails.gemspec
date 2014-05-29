@@ -6,7 +6,7 @@ require 'paho/rails/version'
 Gem::Specification.new do |spec|
   spec.name          = "paho-rails"
   spec.version       = Paho::Rails::VERSION
-  spec.authors       = ["Pablo Oldani""]
+  spec.authors       = ["Pablo Oldani"]
   spec.email         = ["oldani.pablo@gmail.com"]
   spec.summary       = %q{Include paho.js library.}
   spec.description   = %q{Paho.js library for rails}
